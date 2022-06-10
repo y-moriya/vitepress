@@ -1,8 +1,6 @@
-import { defineConfig } from 'vitepress'
-
-export default defineConfig({
-  lang: 'ja',
+export default {
+  lang: 'ja-JP',
   title: 'VitePress',
   description: 'Just playing around',
   base: '/vitepress/'
-})
+}

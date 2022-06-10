@@ -32,6 +32,8 @@ jobs:
         - name: build
           run: yarn docs:build
 
+        - name: nojekyll
+          run: touch docs/.vitepress/dist/.nojekyll
 
         - name: deploy
           uses: peaceiris/actions-gh-pages@v3

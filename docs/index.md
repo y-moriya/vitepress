@@ -1,3 +1,3 @@
 # Hello VitePress
 
-[Getting Started](getting-started.md)
+link [Getting Started](getting-started.md)

@@ -5,7 +5,5 @@ export default defineConfig({
   title: 'VitePress',
   description: 'Just playing around',
   base: '/vitepress/',
-  lastUpdated: true,
-  themeConfig: {
-  }
+  lastUpdated: true
 })

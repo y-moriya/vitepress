@@ -1,3 +1,5 @@
 # vitepress
 
-my vitepress sample.
+My VitePress example.
+
+It works at [github-pages](https://y-moriya.github.io/vitepress).
